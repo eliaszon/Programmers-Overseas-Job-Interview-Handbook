@@ -21,7 +21,7 @@
 ### 如何绕过 LinkedIn 强制跳转到领英职场的限制
 由于 2021 年 10 月 14 日中国 LinkedIn 领英正式改版成领英职场，目前中国大陆地区用户打开 LinkedIn 领英官网 [http://www.linkedin.com](http://www.linkedin.com/) 会被强制跳转到 [http://www.linkedin.cn](http://www.linkedin.cn/) ，改版后的领英中国无法主动搜索客户，添加好友，也无法发布动态，并且用户数据也是分隔开的，相当于 LinkedIn 和领英职场已经完全是两个网站了。
 
-具体教程请看这篇文章：www.xxx.com
+具体教程请看这篇文章：https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/%E5%A6%82%E4%BD%95%E7%BB%95%E8%BF%87%20LinkedIn%20%E5%BC%BA%E5%88%B6%E8%B7%B3%E8%BD%AC%E5%88%B0%E9%A2%86%E8%8B%B1%E8%81%8C%E5%9C%BA%E7%9A%84%E9%99%90%E5%88%B6.md
 
 ### 如何优化自己的 LinkedIn Profile
 推荐一个工具  [Careerflow LinkedIn Optimization Tool](https://www.careerflow.ai/linkedin-review?ref=producthunt) ,这个工具能帮你给自己的 LinkedIn Profile 打分，你可以根据这个工具的打分来优化自己的 Profile 的不同部分。
@@ -418,5 +418,4 @@ https://www.techseries.dev/interview-details
 
 
 欢迎提 PR。
-
 

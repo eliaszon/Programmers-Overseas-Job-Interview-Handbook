@@ -12,7 +12,7 @@
 #  💼 职位搜索
 
 ##  **[LinkedIn](https://www.linkedin.com/)**
-![Pasted image 20221223181947](E:\Belief\Pasted image 20221223181947.png)
+![LinkedIn](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/LinkedIn.png)
 
 如果要找海外的工作，在 LinkedIn 上维护一份详细的英文简历是有必要的。无论你是否打算用它来投简历。因为作为全球最主流的社交求职网站，它在你去心仪的公司官网上投简历的时候是通用的。在投简历的时候很多公司不要你的 PDF 简历，而是要你在它的招聘系统上重新填写一堆信息，而维护好一份好的英文 LinkedIn 主页的好处就体现出来了，在这个时候你可以选择从 LinkedIn 直接导入，省去了重复填写信息的无效劳动。
 
@@ -29,11 +29,11 @@
 其次：设置资料对外公开 👉 Setting > Visibility
 
 ## **[Glassdoor](https://www.glassdoor.com/index.htm)**
-![Pasted image 20221223181743](E:\Belief\Pasted image 20221223181743.png)
+![GlassDoor](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Glassdoor.png)
 **GlassDoor**，公司界的大众点评，不仅可以用来找工作，而且上面有各种Review：公司评价、面试评价、薪水评价等等。
 
 ## **[Indeed](https://www.indeed.com/)**
-![Pasted image 20221223202216](E:\Belief\Pasted image 20221223202216.png)
+![Indeed](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Indeed.png)
 也是一个比较主流的招聘网站。
 
 其他：Monstor、ZipRecruiter、CareerBuilder
@@ -56,11 +56,11 @@
 
 ## **如何看一个公司的风评：**
 ### 1.  [Teamblind](https://www.teamblind.com)
-![Pasted image 20221223181658](E:\Belief\Pasted image 20221223181658.png)
+![Teamblind](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Blind.png)
 Teamblind 可以看作是国外版脉脉
 
 ### 2. [Glassdoor](https://www.glassdoor.com/index.htm)
-![Pasted image 20221223181743](E:\Belief\Pasted image 20221223181743.png)
+![GlassDoor](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Glassdoor.png)
 Glassdoor 上面介绍过了
 
 
@@ -127,13 +127,13 @@ https://sichengingermay.com/wo-suo-jing-li-de-ou-mei-ke-ji-gong-si-de-mian-shi/
 Youtuber 刷题博主:
 - [花花酱](https://www.youtube.com/@HuaHuaLeetCode)
 
-  ![Pasted image 20221223202326](E:\Belief\Pasted image 20221223202326.png)
+  ![Hua Hua](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Hua%20Hua.png)
 
 - [NeetCode](https://www.youtube.com/@NeetCode/videos)
-![Pasted image 20221223202420](E:\Belief\Pasted image 20221223202420.png)
+![NeetCode](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/NeetCode.png)
 
 - [NickWhite](https://www.youtube.com/@NickWhite/videos)
-![Pasted image 20221223202450](E:\Belief\Pasted image 20221223202450.png)
+![NickWhite](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Nick%20White.png)
 
 花花酱虽然是公认的好，不过也可以学习一下下面两个英文刷题博主的表达
 
@@ -160,12 +160,12 @@ Youtuber 刷题博主:
 ### 🌟1. [BFE.dev](https://bigfrontend.dev)  
 可以理解为前端 Leetcode，有很多常见的 JS、React、TypeScript 的代码题、八股文和行为面试，同时还可以根据公司来筛选代码题
 
-![Pasted image 20221223202537](E:\Belief\Pasted image 20221223202537.png)
+![BFE](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/BFE.dev.png)
 
-### ✨ 2. [GreatFrontend](https://www.greatfrontend.com/) 
+### ✨ 2. [GreatFrontEnd](https://www.greatfrontend.com/) 
 GreatFrontend 的题目更偏应用一点，比如做个 widge 、 todolist 之类的
 
-![Pasted image 20221223202619](E:\Belief\Pasted image 20221223202619.png)
+![GreatFrontEnd](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/GreatFrontEnd.png)
 
 ### ⚡️ 3. JS 问答
 
@@ -263,7 +263,7 @@ Youtuber :
 
 
 
-![image-20221223214513038](C:\Users\ELIAS\AppData\Roaming\Typora\typora-user-images\image-20221223214513038.png)
+![Pramp](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Pramp.png)
 
 
 

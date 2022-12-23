@@ -25,7 +25,7 @@
 ### 如何绕过 LinkedIn 强制跳转到领英职场的限制
 由于 2021 年 10 月 14 日中国 LinkedIn 领英正式改版成领英职场，目前中国大陆地区用户打开 LinkedIn 领英官网 [http://www.linkedin.com](http://www.linkedin.com/) 会被强制跳转到 [http://www.linkedin.cn](http://www.linkedin.cn/) ，改版后的领英中国无法主动搜索客户，添加好友，也无法发布动态，并且用户数据也是分隔开的，相当于 LinkedIn 和领英职场已经完全是两个网站了。
 
-具体教程请看这篇文章：[如何绕过 LinkedIn 强制跳转到领英职场的限制](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/如何绕过 LinkedIn 强制跳转到领英职场的限制.md)
+具体教程请看这篇文章：[如何绕过 LinkedIn 强制跳转到领英职场的限制](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/%E5%A6%82%E4%BD%95%E7%BB%95%E8%BF%87%20LinkedIn%20%E5%BC%BA%E5%88%B6%E8%B7%B3%E8%BD%AC%E5%88%B0%E9%A2%86%E8%8B%B1%E8%81%8C%E5%9C%BA%E7%9A%84%E9%99%90%E5%88%B6.md)
 
 
 
@@ -134,6 +134,8 @@ https://www.xiaoyuzhoufm.com/episode/626991beeabd9b6af9c31225?s=eyJ1IjoiNjI2ODBk
 
 
 
+
+
 #  ✍🏻 面试准备
 
 ##  面试形式
@@ -148,16 +150,27 @@ https://sichengingermay.com/wo-suo-jing-li-de-ou-mei-ke-ji-gong-si-de-mian-shi/
 
 
 
+---
+
+
+
+
+
 ## ⌨️ 算法
 
 在准备算法面试前，强烈推荐读一下牛哥的这篇文章：[面试算法，面试官都在考察些什么？](https://sichengingermay.com/interviewer/)
 
-总结，一个成功的算法面试流程是：
-1. 理清楚需求，问清楚边界条件，系统限制，异常情况该如何处理。  
-2. 解释清楚你的算法，必要的话可以画图或者写伪代码来解释。  
-3. 等面试官认可你的算法之后，用代码去实现你的算法。在写代码过程中，可以写一段然后说一下，自己现在要干什么干什么，确保面试官一直在跟着你的思路。也做好随时回答面试官问题的准备。  
-4. 写完实现以后，主动写测试案例。通过自己的测试案例找出 bug 其实是加分项。设计好测试案例，测试案例要有代表性。  
-5. 讲一下自己算法的时间复杂度和空间复杂度，然后等面试官有没有其他问题。
+
+
+
+
+>总结，一个成功的算法面试流程是：
+>
+>1. 理清楚需求，问清楚边界条件，系统限制，异常情况该如何处理。  
+>2. 解释清楚你的算法，必要的话可以画图或者写伪代码来解释。  
+>3. 等面试官认可你的算法之后，用代码去实现你的算法。在写代码过程中，可以写一段然后说一下，自己现在要干什么干什么，确保面试官一直在跟着你的思路。也做好随时回答面试官问题的准备。  
+>4. 写完实现以后，主动写测试案例。通过自己的测试案例找出 bug 其实是加分项。设计好测试案例，测试案例要有代表性。  
+>5. 讲一下自己算法的时间复杂度和空间复杂度，然后等面试官有没有其他问题。
 
 
 
@@ -211,6 +224,14 @@ Youtube 刷题博主:
 
 
 
+---
+
+
+
+
+
+
+
 ## 🎈 Front End
 由于我是前端开发，所以这方面会偏向前端一点。也欢迎后端小伙伴补充后端部分。
 
@@ -239,11 +260,17 @@ React 面试问题及答案
 
 
 
+>
+>
+>同时还推荐两个 GitHub 上的库，可以做做看看。
+>
+>-   [js-bits](https://github.com/vasanthk/js-bits): 详细讲解了 js 基础里的方方面面，建议可以配合示例代码好好理解。
+>-   [exercises](https://github.com/kolodny/exercises): 列举了一些常见的 js 面试题，有些简单有些复杂，可以自己写写试试。项目的设计很有意思，clone 以后，需要在每个文件夹里写 `index.js` 实现要求的函数，然后每个文件夹下有测试，测试跑通就过了。
+>
 
-同时还推荐两个 GitHub 上的库，可以做做看看。
 
--   [js-bits](https://github.com/vasanthk/js-bits): 详细讲解了 js 基础里的方方面面，建议可以配合示例代码好好理解。
--   [exercises](https://github.com/kolodny/exercises): 列举了一些常见的 js 面试题，有些简单有些复杂，可以自己写写试试。项目的设计很有意思，clone 以后，需要在每个文件夹里写 `index.js` 实现要求的函数，然后每个文件夹下有测试，测试跑通就过了。
+
+---
 
 
 
@@ -368,9 +395,14 @@ https://github.com/Interview-Science/interview-english
 
 
 
+---
+
+
+
 
 
 ##  ✅ 可能用到的英文表达（持续更新）
+
 下面的表达都来自母语者或者经母语者校对，我仅为收集者，欢迎补充和指正
 | 表达                                                         | 翻译                                             | 例句                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
@@ -408,6 +440,10 @@ Hi. This is she. Who's speaking?
 
 
 
+---
+
+
+
 
 ## ❌ 常见中式英语错误
 
@@ -427,6 +463,10 @@ Hi. This is she. Who's speaking?
 
 
 
+---
+
+
+
 ### 🪛 推荐一个语言学习小工具 [Youglish](https://youglish.com)
 首先简要介绍一下，它是一款学习外语发音辅助工具，简单来说一款利用 Youtube 的视频资源查找单词发音的工具，比如你搜索 great power ，它就会把 Youtube 上所有有这个词语的片段找出来，重读收听练习。Youglish 支持全球18种语言。不过需要注意的是，免费用户一天有一定次数的限制。
 
@@ -439,10 +479,20 @@ Hi. This is she. Who's speaking?
 
 
 
+---
+
+
+
 
 ## 🏂🏽 如何短时间快速提高英语技术面试水平？
 
 https://twitter.com/Smellyprince/status/1602968576272367617?t=boM_AayFPFmbPoIjKwVTWw&s=09
+
+
+
+
+
+---
 
 
 
@@ -467,6 +517,12 @@ https://twitter.com/Smellyprince/status/1602968576272367617?t=boM_AayFPFmbPoIjKw
 
 
 同传工具实际上还不止上面这几个，如果你对这些都不满意，可以试着自己再找找。
+
+
+
+
+
+---
 
 
 

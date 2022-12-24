@@ -88,6 +88,10 @@ Glassdoor 上面介绍过了
 
 
 
+- [Trustpilot](https://www.trustpilot.com)
+
+![Trustpilot](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/Trustpilot.png)
+
 ---
 
 
@@ -538,6 +542,14 @@ https://twitter.com/Smellyprince/status/1602968576272367617?t=boM_AayFPFmbPoIjKw
 
 
 
+谈 Offer 技巧的网站：
+
+https://www.1point3acres.com/bbs/thread-905770-1-1.html
+
+>这个网站做得很好，把一线的公司全都找出来，然后分析各个公司的利弊和谈判技巧，按它的话说都有10万的空间，如果拿到某家offer可以按里面的方法试试比如亚麻
+
+
+
 ---
 
 
@@ -554,8 +566,12 @@ https://twitter.com/Smellyprince/status/1602968576272367617?t=boM_AayFPFmbPoIjKw
 - 💳 [境外该刷哪张卡？-- 一站式汇率 -- 快易理财网](https://www.kylc.com/huilv/whichcard.html?ccy=eur)
 这个网站可以查所有国内信用卡的汇率，很好用
 
--  💸 [手取り計算｜月収と年収のシミュレーション | ファンジョブ](https://funjob.jp/keisan/gekkyu/)
-这个网站可以看到你的年收入和你实际到手的工资
+- 💸 [手取り計算｜月収と年収のシミュレーション | ファンジョブ](https://funjob.jp/keisan/gekkyu/)
+  这个网站可以看到你的年收入和你实际到手的工资
+
+- 🏄🏻 [4 Day Work Week Jobs](https://4dayweek.io/)
+
+  这个网站能帮你找到一周只工作四天的工作，注重 Work life balance 的程序员们可以关注一下
 
 
 ### 📰 博客或帖子

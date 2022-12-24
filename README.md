@@ -447,6 +447,18 @@ Hi. This is she. Who's speaking?
 
 
 
+在面试一开始，面试官可能会问你 How are you?
+
+可以用下面的回答：
+
+- Not bad
+- I'm doing great.
+- I'm good. 
+- I'm Alright. ( Thanks for asking ).
+- Could be better. （不是很好）
+
+
+
 
 
 ---

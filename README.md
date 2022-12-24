@@ -110,13 +110,16 @@ Glassdoor 上面介绍过了
 -  Resume - http://resume.com/ 
 -  JSON Resume - http://jsonresume.org/
 
-
 小 tip : 如果你是直接投简历肉翻的方式，可以尝试在简历上加上下面这句话：
-I can provide my own visa/work permit for (Country, such as German) within 5-8 weeks.
+I can provide my own visa/work permit for (XX Country) within 5-8 weeks.
 
 理由：
-“1. 一般雇主都希望你能越快入职越好，给一个大概的办签证的时间，能让雇主那边知道你懂这些套路。
-2. 也有一些公司的HR，并不太了解签证相关事宜，所以如果看到你不在德国/柏林，可能直接就略过了你的简历，但是从法律上来讲，只要你过了面试签了合同，那么办工签是顺理成章的事情。”
+
+>“1. 一般雇主都希望你能越快入职越好，给一个大概的办签证的时间，能让雇主那边知道你懂这些套路。
+>
+>2. 也有一些公司的HR，并不太了解签证相关事宜，所以如果看到你不在德国/柏林，可能直接就略过了你的简历，但是从法律上来讲，只要你过了面试签了合同，那么办工签是顺理成章的事情。”
+
+
 
 具体详见：https://twitter.com/kenshinji/status/1557283438771769344?t=wBXGxIGQQcgOCxexQaCJow&s=09
 
@@ -392,7 +395,9 @@ Interview Warmup，是 Google 推出的一个在线面试模拟器，可让任�
 
 
 ## 🗝 常见前端英文技术名词（持续更新）
-这个地方另建一个仓库，后续更新把链接补上。
+这个我另建了一个仓库，请看：https://github.com/eliaszon/Front-End-Tech-Glossary
+
+
 
 常见的英文符号、时间复杂度等表达请看：
 https://github.com/Interview-Science/interview-english

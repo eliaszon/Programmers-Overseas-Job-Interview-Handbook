@@ -217,7 +217,7 @@ Youtube 刷题博主:
 
 书籍：Cracking the Coding Interview
 
-可以自己买一本，或者找个电子版（可以试试新Zlibrary地址: https://z-lib.is)
+可以自己买一本，或者找个电子版
 
 
 

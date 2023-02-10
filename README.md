@@ -654,34 +654,22 @@ https://www.1point3acres.com/bbs/thread-905770-1-1.html
 ### 📰 博客或帖子
 
 - [996.Leave 项目](https://github.com/623637646/996.Leave)
-
 - [我的肉翻记录-下 - Sicheng's blog](https://sichengingermay.com/%e6%88%91%e7%9a%84%e8%82%89%e7%bf%bb%e8%ae%b0%e5%bd%95-%e4%b8%8b/)
 牛哥关于如何准备面试过程的各个阶段，主攻后端
-
 -  [最近的海外面试（前端）经历](https://cloud.tencent.com/developer/article/1342758)
 强烈推荐。
-
+- [从北京到都柏林 一名程序员的润欧之旅](https://youngforest.github.io/2022/12/09/Find-a-Europe-SDE-job-from-China/)
 - [2021 前端工程師面試心得](https://jing-tech.me/blog/2021_frontend_interview)
-
 - [前端工程师英文面试的准备资料](https://p98ugam62c.feishu.cn/docx/doxcnb4JBXQlfmqiw1wyUrIDB38)
-
 - [Google、Facebook 等美国 IT 名企在面试中最看重什么？ - 知乎](https://www.zhihu.com/question/39238915)
-
 - [“Top 10 JavaScript Interview Questions”](https://youtu.be/oxoFVqetl1E)
-
 - [New Grad高效刷题找工作全攻略](https://www.1point3acres.com/bbs/thread-532585-1-1.html)
-
 - [关于赴德工作，我踩过的那些坑 - Fred's Blog](https://kenshinji.me/rou-fan-de-guo-wo-cai-guo-de-na-xie-keng/)
-
 - [我是如何从哑巴英语到无障碍英文工作沟通的 - Fred's Blog](https://kenshinji.me/wo-shi-ru-he-cong-ya-ba-ying-yu-dao-wu-zhang-ai-ying-wen-gong-zuo-gou-tong-de/)
-
 - [新加坡润学指南、润坡知识库](https://run2.sg/)
-
 - https://twitter.com/iOSChenYilong/status/1548808109791264768
 ChenYilong（ios 程序员） WHV 入境新西兰找工作的经过
-
 - [2022 年从国内拿到悉尼 220K AUD offer 经验分享（一） - V2EX](https://v2ex.com/t/887135)
-
 - [前端早早聊大会 - 海外工作专场](https://www.zaozao.run/conf/c46)
 
 

@@ -21,17 +21,21 @@
 怎么看自己订阅的服务的规则？
 
 ### 点开 Clash 客户端的 Profiles
-![Pasted image 20221223160757](E:\Belief\Pasted image 20221223160757.png)
+![image04](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/LinkedIn%20Tutorial/04.png)
 
 
 ### 右键你订阅的 Profile，选择 Rules
 
-![Pasted image 20221223160849](E:\Belief\Pasted image 20221223160849.png)
+![image05](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/LinkedIn%20Tutorial/05.png)
 在这里你可以看到自己的规则组，可以搜索一下 linkedIn，如果 linkedIn 匹配的不是国外流量而是直连，那么就需要更改。
 
-![Pasted image 20221223161312](E:\Belief\Pasted image 20221223161312.png)
+![image06](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/LinkedIn%20Tutorial/06.png)
 
 但是注意，如果你在规则页面直接添加规则是没用的，因为 Profiles 会定期更新，更新之后就会把你本地的规则覆盖。所以这里我们需要使用 Parser 来添加自定义规则并防止更新覆盖。
+
+
+
+---
 
 以下部分来自 Kuro 的博客，由我做了部分具体代码上的修改，我就不重复造轮子了
 原文：https://chenjuefei.com:444/117.html
@@ -40,10 +44,9 @@
 **Note:** 使用该方法需要Clash版本高于0.11.10，如果低于该版本，请先上github下载安装包进行更新。
 
 1.  打开`Setting`（设置），找到`Profiles`（配置文件下）的`Parsers`。  
-    ![2072225632](E:\Belief\2072225632.png)
+    ![image01](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/LinkedIn%20Tutorial/01.png)
 2.  点击右侧的`Edit`，打开编辑界面。  
-    ![387303711](E:\Belief\387303711.png)
-    
+    ![image02](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/LinkedIn%20Tutorial/02.png)
     
 3.  输入以下代码（以下为示例代码，需要根据自身情况进行改动）：
 
@@ -61,7 +64,7 @@
 -   prepen-rules：此处添加你的自定义规则，每一条占一行，按照（规则类型，值，代理策略）排列，使用逗号分隔。注意的是，每一行都需要以一个短横线加空格的开头，同时 **注意对齐**。具体的自定义规则如何书写在本文的后半部分有说明。
 
 4.  编辑完成后，点击右下角保存。到`Profiles`里更新订阅，这样就可以将新的规则添加上了。可以点击`edit rules`查看规则进行验证。之后打开相应网页看是否生效。  
-    ![3146968707](E:\Belief\3146968707.png)
+    ![image03](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook/blob/main/images/LinkedIn%20Tutorial/03.png)
 
 ## 自定义规则的书写方式
 
@@ -102,3 +105,11 @@
 参考：
 https://chenjuefei.com:444/117.html
 https://www.jamesdailylife.com/clash_2022
+
+
+
+
+
+---
+
+那么手机端呢？手机端的话就直接开全局模式进去就行。

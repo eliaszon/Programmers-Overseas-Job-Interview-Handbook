@@ -9,6 +9,8 @@
 
 长期以来收集了很多直投海外找工作的资源，这两天把这些资源整理一下，做个索引。方便自己日后查看，也方便其他有海外工作打算的程序员查阅。**欢迎补充，欢迎提 PR~**
 
+也欢迎关注我的另一个仓库: [中国程序员常犯的英语口语错误大全](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese)
+
 #  💼 职位搜索
 
 ##  **[LinkedIn](https://www.linkedin.com/)**
@@ -512,19 +514,23 @@ Hi. This is she. Who's speaking?
 
 ## ❌ 常见中式英语错误
 
-| 中式表达                  | 母语者的表达                                   | 解析                                                     |
-| ------------------------- | ---------------------------------------------- | -------------------------------------------------------- |
-| I'm a Chinese             | I'm Chinese 或 I'm a Chinese person            |                                                          |
-| How to say XXX in English | How do you say XXX in English                  | How to 一般作从句，单独做一个句子结构不完整              |
-| What's your problem？     | Do you have any questions？                    |                                                          |
-| No thanks                 | You're welcome                                 |                                                          |
-| Seldom                    | Rarely 或 Hardly ever 或 I don't really do...  | 表达很少做某事，Seldom并不常用，建议替换成后面的表达     |
-| Whatever                  | Anything will do 或 I don't mind               | Whatever表达随便的时候有点不太礼貌，有点像爱怎么着怎么着 |
-| My English is poor        | My English isn't so good 或 My English is shit | 用后面的表达更自然                                       |
+| 中式表达                  | 母语者的表达                                        | 解析                                                         |
+| ------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| I'm a Chinese             | I'm Chinese 或 I'm a Chinese person                 |                                                              |
+| How to say XXX in English | How do you say XXX in English                       | How to 一般作从句，单独做一个句子结构不完整                  |
+| Seldom                    | Rarely 或 Hardly ever 或 I don't really do...       | 表达很少做某事，Seldom并不常用，建议替换成后面的表达         |
+| Whatever                  | Anything will do 或 I don't mind                    | Whatever表达随便的时候有点不太礼貌，有点像爱怎么着怎么着     |
+| My English is poor        | My English isn't so good 或 My English is shit      | 用后面的表达更自然，注意My English is shit 只能用在非正式场合 |
+| reply you                 | get back to you / come back to you                  | 表示回复、回信息。reply me 有语法错误，要加 to ，reply to me |
+| No thanks                 | No problem / It's all good / No worries             |                                                              |
+| Both is fine              | Both are fine / Either is fine                      |                                                              |
+| just so so                | It was just ok / It was just alright / It's not bad | 表达一般般用 just so so 非常过时，一般只有一些非常老的老人可能会说 |
+| I know                    | I see / I understand / I get it / right             | I know 在某些语境下会有不耐烦的意思，让对方闭嘴的意思        |
+| What's your problem？     | Do you have any questions？                         |                                                              |
 
 实际上还有很多，节选一部分。
 
-
+完整版请看此仓库 [中国人常犯的中式英语口语错误大全](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese)
 
 
 

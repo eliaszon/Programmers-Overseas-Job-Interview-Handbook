@@ -9,7 +9,7 @@
 
 长期以来收集了很多直投海外找工作的资源，这两天把这些资源整理一下，做个索引。方便自己日后查看，也方便其他有海外工作打算的程序员查阅。**欢迎补充，欢迎提 PR~**
 
-也欢迎关注我的另一个仓库: [中国程序员常犯的英语口语错误大全](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese)
+也欢迎关注我的另一个仓库: [中国程序员最容易犯的 100 个英语口语错误](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese)
 
 #  💼 职位搜索
 

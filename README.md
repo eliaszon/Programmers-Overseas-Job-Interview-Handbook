@@ -530,7 +530,7 @@ Hi. This is she. Who's speaking?
 
 实际上还有很多，节选一部分。
 
-完整版请看此仓库 [中国人常犯的中式英语口语错误大全](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese)
+完整版请看此仓库 [中国程序员最容易犯的 100 个英语口语错误](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese)
 
 
 

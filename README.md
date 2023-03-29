@@ -231,7 +231,7 @@ GreatFrontend 的题目更偏应用一点，比如做个 widge 、 todolist 之�
 
 Jack Herrington 的频道专注于现代高级前端技术，适合对于前沿技术感兴趣的朋友们学习参考
 
-![Jack Herrington](inserting_link_soon_ish)
+![image](https://user-images.githubusercontent.com/53138432/228509767-d3672b64-9ede-43ce-9df3-6eb0bbe058df.png)
 
 ### ℹ️ 其他你可能感兴趣的资源：
 

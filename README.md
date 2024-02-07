@@ -112,6 +112,11 @@ Glassdoor 上面介绍过了
 -  Resume - http://resume.com/ 
 -  JSON Resume - http://jsonresume.org/
 
+英文简历制作教程：
+https://twitter.com/FrejaMeow/status/1595302287898984448
+
+https://twitter.com/IRIMII_tech/status/1671097312192483330
+
 小 tip : 如果你是直接投简历肉翻的方式，可以尝试在简历上加上下面这句话：
 I can provide my own visa/work permit for (XX Country) within 5-8 weeks.
 
@@ -355,14 +360,12 @@ React 面试问题及答案
 20. What's your ideal working environment?
 21. Do you have any questions for me?
 
-这只是一些比较常问的，如果需要更详细的问题列表可以参考：
-https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c
-
-https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4
-
 建议提前准备一下，以免问到的时候手足无措
 可以上 Youtube 搜每个问题，一般都会有人教你回答这个问题的技巧，什么该说什么不该说
 
+https://www.youtube.com/watch?v=0Is871FysC8
+
+https://www.youtube.com/watch?v=TF6LcrHqbo4
 
 
 ### ℹ️ 相关帖子和资源
@@ -377,6 +380,11 @@ Youtuber :
 -  [Linda Raynier](https://www.youtube.com/@LindaRaynier)
 
 这类型的 Youtuber 还有很多，可以自己找找
+
+[[找工就业]2022最强bq问题集合400题不限专业](https://www.1point3acres.com/bbs/thread-891102-1-1.html)
+
+[问BQ(behavioralquestion)时他们到底在问什么](https://www.1point3acres.com/bbs/thread-566677-1-1.html)
+
 
 
 
@@ -436,9 +444,11 @@ Interview Warmup，是 Google 推出的一个在线面试模拟器，可让任�
 #  🔡 面试英文
 实际上口语中的语法错误并不重要，重要的在于把想法表达清楚，Fluency 流利度相比语法、发音反而更重要。面试的时候最怕说到一半卡住，对方在等，我在找词。
 
+IRIMII 关于如何提升技术面试英语的一些小tip:
+https://twitter.com/IRIMII_tech/status/1682363920982343683
 
-
-
+我是如何从哑巴英语到无障碍英文工作沟通的 - Fred's Blog
+https://kenshinji.me/wo-shi-ru-he-cong-ya-ba-ying-yu-dao-wu-zhang-ai-ying-wen-gong-zuo-gou-tong-de/
 
 ## 🗝 常见前端英文技术名词（持续更新）
 这个我另建了一个仓库，请看：https://github.com/eliaszon/Front-End-Tech-Glossary
@@ -447,6 +457,8 @@ Interview Warmup，是 Google 推出的一个在线面试模拟器，可让任�
 
 常见的英文符号、时间复杂度等表达请看：
 https://github.com/Interview-Science/interview-english
+
+
 
 
 
@@ -665,6 +677,7 @@ https://www.1point3acres.com/bbs/thread-905770-1-1.html
 -  [最近的海外面试（前端）经历](https://cloud.tencent.com/developer/article/1342758)
 强烈推荐。
 - [从北京到都柏林 一名程序员的润欧之旅](https://youngforest.github.io/2022/12/09/Find-a-Europe-SDE-job-from-China/)
+- [瑞典面试流程以及我的面试技巧](https://twitter.com/FrejaMeow/status/1673245276163694592)
 - [2021 前端工程師面試心得](https://jing-tech.me/blog/2021_frontend_interview)
 - [前端工程师英文面试的准备资料](https://p98ugam62c.feishu.cn/docx/doxcnb4JBXQlfmqiw1wyUrIDB38)
 - [Google、Facebook 等美国 IT 名企在面试中最看重什么？ - 知乎](https://www.zhihu.com/question/39238915)

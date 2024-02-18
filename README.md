@@ -160,7 +160,9 @@ https://mp.weixin.qq.com/s/vNGoO9OgT21yf-gAHSn3kQ
 关于前端面试形式还可以听听后面列的 Podcast，都有提到海外面试和国内面试的区别。
 
 ### 后端：
-https://sichengingermay.com/wo-suo-jing-li-de-ou-mei-ke-ji-gong-si-de-mian-shi/
+~~https://sichengingermay.com/wo-suo-jing-li-de-ou-mei-ke-ji-gong-si-de-mian-shi/~~
+
+[Wayback Machine](https://web.archive.org/web/20231202022642/https://sichengingermay.com/wo-suo-jing-li-de-ou-mei-ke-ji-gong-si-de-mian-shi/)
 
 
 

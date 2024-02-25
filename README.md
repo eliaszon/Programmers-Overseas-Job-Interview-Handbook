@@ -681,6 +681,7 @@ https://www.1point3acres.com/bbs/thread-905770-1-1.html
 - [从北京到都柏林 一名程序员的润欧之旅](https://youngforest.github.io/2022/12/09/Find-a-Europe-SDE-job-from-China/)
 - [瑞典面试流程以及我的面试技巧](https://twitter.com/FrejaMeow/status/1673245276163694592)
 - [万字长文回顾一年半美国职场！- 前端小鱼儿](https://mp.weixin.qq.com/s/ta8i3gRWhrCv4H90eLo6lQ)
+- [国内程序员如何润到欧洲 （荷兰篇）](https://zhuanlan.zhihu.com/p/677150262?utm_medium=social&utm_oi=40502204301312&utm_psn=1745047894543986688&utm_source=wechat_session)
 - [2021 前端工程師面試心得](https://jing-tech.me/blog/2021_frontend_interview)
 - [前端工程师英文面试的准备资料](https://p98ugam62c.feishu.cn/docx/doxcnb4JBXQlfmqiw1wyUrIDB38)
 - [Google、Facebook 等美国 IT 名企在面试中最看重什么？ - 知乎](https://www.zhihu.com/question/39238915)

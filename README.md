@@ -107,6 +107,7 @@ Glassdoor 上面介绍过了
 英文简历制作网站
 -  Overleaf - https://www.overleaf.com
 -  Reactive Resume - https://rxresu.me
+-  ResumeAI - https://withresumeai.com/ (free ATS checker + AI resume builder)
 -  Rezi - http://rezi.ai/ai-resume-builder
 -  Resumake - http://resumake.io/ 
 -  Resume - http://resume.com/ 

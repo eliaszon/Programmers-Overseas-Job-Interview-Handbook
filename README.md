@@ -111,6 +111,7 @@ Glassdoor 上面介绍过了
 -  Resumake - http://resumake.io/ 
 -  Resume - http://resume.com/ 
 -  JSON Resume - http://jsonresume.org/
+-  JobEmerge - https://www.jobemerge.work （职位匹配分析、19 种语言简历翻译和 Markdown 简历编辑）
 
 英文简历制作教程：
 https://twitter.com/FrejaMeow/status/1595302287898984448

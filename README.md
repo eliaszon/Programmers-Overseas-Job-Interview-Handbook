@@ -107,6 +107,7 @@ Glassdoor 上面介绍过了
 英文简历制作网站
 -  Overleaf - https://www.overleaf.com
 -  Reactive Resume - https://rxresu.me
+-  ResumeInvited - https://resumeinvited.com/ （免费、免注册，支持实时预览和 PDF／可编辑 Word 导出）
 -  Rezi - http://rezi.ai/ai-resume-builder
 -  Resumake - http://resumake.io/ 
 -  Resume - http://resume.com/ 
